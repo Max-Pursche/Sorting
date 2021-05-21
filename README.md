@@ -1,4 +1,4 @@
 # Sorting
 Max Pursche, UVM CompSci
 
-A collection of sorting algorithms and solved problems using said algorithms
+A collection of sorting algorithms Ive made and problems Ive solved using said algorithms
